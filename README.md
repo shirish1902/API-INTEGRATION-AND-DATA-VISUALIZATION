@@ -18,4 +18,4 @@ API integration and data visualization using Python allow developers to fetch re
 
 
 OUTPUT:-
-![Image](https://github.com/user-attachments/assets/7fd0e3b7-47fd-4f56-b6b9-2343bea66d91)
+![Image](https://github.com/user-attachments/assets/a7cd0823-dc0a-4965-8e87-f94ecaa44dee)
